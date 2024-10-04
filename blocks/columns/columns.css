@@ -19,11 +19,7 @@
   display: block;
 }
 
-.columns > div > div h3{
-  text-color:#F06;
-}
- 
-@media (width >= 900px) {
+ @media (width >= 900px) {
   .columns > div {
     align-items: center;
     flex-direction: unset;
