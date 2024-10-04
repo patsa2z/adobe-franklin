@@ -18,9 +18,11 @@
 .columns > div > .columns-img-col img {
   display: block;
 }
+
  .columns > div > div h3{
-  text-color:#FF0066;
+  text-color:#F06;
 }
+
 @media (width >= 900px) {
   .columns > div {
     align-items: center;
